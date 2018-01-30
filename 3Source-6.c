@@ -1,4 +1,11 @@
-nclude <stdio.h>
+/*
+Autor:Francisco Jesus Mac Cetzal (3Source)
+Entradas:
+Salidas:
+Procedimiento general:
+*/
+
+#include <stdio.h>
 	
 	int main(int argc, char *argv[]) {
 	int catetoA = 0;

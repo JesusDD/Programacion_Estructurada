@@ -1,3 +1,11 @@
+/*
+Autor:Francisco Jesus Mac Cetzal (3Source)
+Entradas:
+Salidas:
+Procedimiento general:
+*/
+
+
 #include <stdio.h>
 
 int main() {
